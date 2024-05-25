@@ -6,6 +6,7 @@ A simple script that predicts the house price using Zillow's csv data file
 
 You can download the script using `git`
 ```bash
+git clone https://github.com/KPCOFGS/House_Price_Prediction.git
 cd House_Price_Prediction
 ```
 You can install the dependencies using pip:
